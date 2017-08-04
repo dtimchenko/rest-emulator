@@ -14,5 +14,5 @@ There you can find 'rest-emulator' directory, it will contain:
 <br>-go to target/rest-emulator/resources/url-json.properties
 <br>-add new mapping(for example: /api/test=test.json)
 <br>-add json-file to the resources folder(file with name that was used for mapping in prev step)
-<br>-start the emulator with start.bat (localhost:8090)
+<br>-start the emulator with start.bat (by default emulator run on localhost:8090)
 
